@@ -89,7 +89,7 @@ def Video(sps, folder, topic, content, tono, vino):
     folder += "/"+str(tono)+"."+replace(topic)+"/"+str(vino) + "-"
     print("Folder in 2nd video: ", folder)
     hq = './main '+sps+" --write-auto-sub --write-srt --sub-lang en --convert-subs=srt -f 'bestvideo+bestaudio/bestvideo+bestaudio'  --merge-output-format mp4 --newline -o "
-    hq += folder + "'%(title)s.%%(ext)s'"
+    hq += folder + "'%(title)s.%(ext)s'"
     ab = '%SYSTEMROOT%\System32\WindowsPowerShell\\v1.0\powershell.exe -Command ' + hq
     print(hq)
     process = subprocess.Popen(

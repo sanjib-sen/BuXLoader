@@ -1,7 +1,7 @@
 # BuXLoader
 
 ### Description:
-This is an automated software which will download Lecture Videos from BuX. BuX is an online platform for academic activites of BRAC University. Teachers upload their lecture contents and take examinations,assignments and quizzes here, just like edX. This software will look for video lectures in a particular course and download them automatically. 
+This is an automated software which will download Lecture Videos from BuX. BuX is an online platform for academic activites of BRAC University. Teachers upload their lecture contents and take examinations,assignments and quizzes from here, just like edX. This software will look for video lectures in a particular course and download them automatically. 
 
 ## Images
 ![Main](/Screenshots/show.png)
@@ -29,7 +29,7 @@ This is an automated software which will download Lecture Videos from BuX. BuX i
 3. requests
 4. tkinter
 
-### Instruction for Beta Testers:
+### Instruction for Developers:
 1. Download Python 3.9
 2. Install [pip](https://pip.pypa.io/en/stable/installing/)
 3. Install beautifulsoup4, selenium, requests through pip. 

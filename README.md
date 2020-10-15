@@ -20,7 +20,7 @@ This is an automated software which will download Lecture Videos from BuX. BuX i
 
 
 ### Installation:
-1. Download and Extract [BuXLoader_Edge_.v01](https://github.com/sanjib-sen/BuXLoader/releases/download/v0.1/BuXLoader_Edge_.v01.zip)
+1. Download and Extract [BuXLoader_Edge_.v01](https://github.com/sanjib-sen/BuX_Loader/releases/download/v0.02/BuX_Loader_v02_Edge.zip)
 2. Run **BuXLoader.exe**
 
 ### Modules Used:
